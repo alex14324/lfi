@@ -8,7 +8,7 @@
 #### Version 1.0.0
 
 
-Instagram: [TMRSWRR](https://www.instagram.com/tmrswrr/)
+Telegram: [alex14324](https://www.t.me.com/alex14324/)
 
 
 
@@ -27,7 +27,7 @@ This tool works with geckodriver, search url for LFI Vuln and when get an root t
 
 
 ```bash
-git clone https://github.com/capture0x/LFI-FINDER/
+git clone https://github.com/alex14324/lfi/
 cd LFI-FINDER
 bash setup.sh
 pip3 install -r requirements.txt
@@ -42,6 +42,6 @@ THIS IS FOR LATEST GOOGLE CHROME VERSION
 
 ## Bugs and enhancements
 
-For bug reports or enhancements, please open an [issue](https://github.com/capture0x/LFI-FINDER/issues) here.
+For bug reports or enhancements, please open an [issue](https://github.com/alex14324/lfi/issues) here.
 
 **Copyright 2023**
