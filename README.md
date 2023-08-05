@@ -28,7 +28,7 @@ This tool works with geckodriver, search url for LFI Vuln and when get an root t
 
 ```bash
 git clone https://github.com/alex14324/lfi/
-cd LFI-FINDER
+cd lfi
 bash setup.sh
 pip3 install -r requirements.txt
 chmod -R 755 lfi.py
